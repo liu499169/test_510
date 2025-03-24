@@ -29,10 +29,10 @@ This is _italic_.
 
 <https://geog-510.gishub.org/book/software/markdown.html>
 
-![an image](https://geog-510.gishub.org/_static/logo.png))
+![an image](https://geog-510.gishub.org/_static/logo.png)
 
 ### code block
 
-'''python
+```python
 print("Here is a questions.")
-'''
+```
